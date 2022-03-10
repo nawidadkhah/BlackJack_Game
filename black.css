@@ -1,0 +1,33 @@
+body {
+    background-color: #016f32;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#massage{
+    font-style: italic;
+}
+
+button{
+    border: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+#gameWin{
+    color: goldenrod;
+}
+
+#gameLose{
+    color: rgb(100, 39, 39);
+}
